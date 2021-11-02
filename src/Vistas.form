@@ -239,12 +239,12 @@
     <Component class="javax.swing.JTextField" name="jNumP">
       <Properties>
         <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="ff" green="ff" red="cc" type="rgb"/>
+          <Color blue="cc" green="cc" red="cc" type="rgb"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
             <LineBorder>
-              <Color PropertyName="color" blue="ff" green="cc" red="33" type="rgb"/>
+              <Color blue="0" green="c8" id="orange" palette="1" red="ff" type="palette"/>
             </LineBorder>
           </Border>
         </Property>
